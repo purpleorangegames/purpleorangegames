@@ -19,3 +19,4 @@ To use one, open the mod, go to Releases, download the zip and extract it into y
 - [FemaleBodyVariants](https://github.com/purpleorangegames/FemaleBodyVariants) - female textures for thin, fat and hulk bodies ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3207125987))
 - [FemaleApparelVariants](https://github.com/purpleorangegames/FemaleApparelVariants) - female apparel textures for those bodies ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3511966169))
 - [JustBodies](https://github.com/purpleorangegames/JustBodies) - female body textures based on Beautiful Bodies ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3215805750))
+- [FloraReskinPatchOnly](https://github.com/purpleorangegames/FloraReskinPatchOnly) - patch for cattleya's Flora Reskin, uses the textures from pashka's Flora reskin HD ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3190366420))

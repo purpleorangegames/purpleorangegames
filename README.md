@@ -20,3 +20,4 @@ To use one, open the mod, go to Releases, download the zip and extract it into y
 - [FemaleApparelVariants](https://github.com/purpleorangegames/FemaleApparelVariants) - female apparel textures for those bodies ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3511966169))
 - [JustBodies](https://github.com/purpleorangegames/JustBodies) - female body textures based on Beautiful Bodies ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3215805750))
 - [FloraReskinPatchOnly](https://github.com/purpleorangegames/FloraReskinPatchOnly) - patch for cattleya's Flora Reskin, uses the textures from pashka's Flora reskin HD ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3190366420))
+- [ReShadeForRimWorld](https://github.com/purpleorangegames/ReShadeForRimWorld) - loads ReShade shaders in RimWorld 1.7, works on native Linux, BSD license like ReShade ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3826441547))
